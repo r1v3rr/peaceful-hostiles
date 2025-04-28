@@ -1,4 +1,4 @@
 package net.river.peacefulhostiles.mixin;
 
-public class NaturalSpawner {
+public class StructureDensityManager {
 }
