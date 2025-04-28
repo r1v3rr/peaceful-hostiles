@@ -11,5 +11,7 @@ public class PeacefulHostiles implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		// Log a message when the mod initializes
+		LOGGER.info("Peaceful Hostiles mod initialized! Hostile mobs should now spawn and be passive in Peaceful difficulty.");
 	}
 }
