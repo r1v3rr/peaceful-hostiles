@@ -4,7 +4,9 @@
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"HostileEntityMixin",
-		"SlimeEntityMixin"
+		"SlimeEntityMixin",
+		"GhastEntityMixin",
+		"PhantomEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
