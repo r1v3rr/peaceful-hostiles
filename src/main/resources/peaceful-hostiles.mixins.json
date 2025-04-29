@@ -3,7 +3,8 @@
 	"package": "net.river.peacefulhostiles.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"HostileEntityMixin"
+		"HostileEntityMixin",
+		"SlimeEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
