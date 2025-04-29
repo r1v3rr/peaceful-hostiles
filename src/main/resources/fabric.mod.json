@@ -17,12 +17,6 @@
 	"entrypoints": {
 		"main": [
 			"net.river.peacefulhostiles.PeacefulHostiles"
-		],
-		"fabric-datagen": [
-			"net.river.peacefulhostiles.PeacefulHostilesDataGenerator"
-		],
-		"client": [
-			"net.river.peacefulhostiles.PeacefulHostilesClient"
 		]
 	},
 	"mixins": [
