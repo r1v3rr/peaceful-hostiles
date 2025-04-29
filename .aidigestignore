@@ -1,0 +1,11 @@
+.github/
+.idea/
+.gradle/
+build/
+*.jar
+LICENSE
+*.bat
+.*
+*.png
+gradlew
+run/
